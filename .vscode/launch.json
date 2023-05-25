@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GestoreBiblio",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.GestoreBiblio",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "stopOnEntry": false,
+            "mainClass": "com.mycompany.app.App",
+            "args": "",
+            "projectName": "my-app"
+        }
+    ]
+}
