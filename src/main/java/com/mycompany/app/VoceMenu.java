@@ -4,7 +4,6 @@ public class VoceMenu implements Comparable
 {
     private String testo;
     private int pos;
-    
     public VoceMenu(String testo, int pos)
     {
         if(pos>0)

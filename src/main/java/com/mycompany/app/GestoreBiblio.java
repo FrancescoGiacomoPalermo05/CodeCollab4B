@@ -6,6 +6,7 @@
 package com.mycompany.app;
 
 import java.util.Scanner;
+//ciao pippo sono Francesco
 
 public class GestoreBiblio
 {
